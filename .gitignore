@@ -1,0 +1,15 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Imágenes (descomenta si no quieres versionar las imágenes)
+# images/*.jpg
+# images/*.png
+# images/*.gif
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos de configuración local
+config.local.json
