@@ -27,7 +27,8 @@ URL_FORMULARIO_CURSO_6  →  https://...
 
 ### ☐ 2. Imágenes (OBLIGATORIO)
 
-Agrega 6 imágenes a la carpeta `images/`:
+Agrega **7 imágenes** a la carpeta `images/`:
+- ✓ **header-logo.jpg** (CABECERA - MUY IMPORTANTE)
 - ✓ curso-mantenimiento-sistemas.jpg
 - ✓ curso-montaje-componentes.jpg
 - ✓ curso-apoyo-psicosocial.jpg
@@ -35,20 +36,25 @@ Agrega 6 imágenes a la carpeta `images/`:
 - ✓ curso-elaboracion-culinaria.jpg
 - ✓ curso-atencion-domiciliaria.jpg
 
+**Dimensiones:** Todas deben ser **600x200 píxeles**.
+
+La imagen **header-logo.jpg** debe contener tu logo/banner principal con colores amarillo (#eab003) y negro preferentemente.
+
 **Si vas a enviar por email marketing:** Necesitas URLs completas de las imágenes.
 
 Busca todas las etiquetas `<img src="images/...">` y reemplázalas por URLs completas:
 
 ```html
 <!-- Antes -->
-<img src="images/curso-mantenimiento-sistemas.jpg" alt="...">
+<img src="images/header-logo.jpg" alt="...">
 
 <!-- Después -->
-<img src="https://tudominio.com/img/curso-mantenimiento-sistemas.jpg" alt="...">
+<img src="https://tudominio.com/img/header-logo.jpg" alt="...">
 ```
 
-Hay **6 imágenes** que cambiar. Busca en el archivo:
+Hay **7 imágenes** que cambiar. Busca en el archivo:
 ```
+images/header-logo.jpg (cabecera)
 images/curso-mantenimiento-sistemas.jpg
 images/curso-montaje-componentes.jpg
 images/curso-apoyo-psicosocial.jpg

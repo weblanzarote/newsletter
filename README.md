@@ -20,10 +20,11 @@ Esta newsletter incluye:
 
 ### Paso 1: Preparar las Imágenes
 
-1. Descarga o crea 6 imágenes para los cursos (una por cada curso)
+1. Descarga o crea **7 imágenes** (1 cabecera + 6 cursos)
 2. Consulta el archivo `images/README.md` para ver las especificaciones y sugerencias de cada imagen
 3. Formato recomendado: **600x200 píxeles, JPG, máximo 100KB**
 4. Coloca las imágenes en la carpeta `images/` con estos nombres:
+   - **`header-logo.jpg`** (OBLIGATORIA - Logo/banner de cabecera)
    - `curso-mantenimiento-sistemas.jpg`
    - `curso-montaje-componentes.jpg`
    - `curso-apoyo-psicosocial.jpg`
@@ -112,17 +113,29 @@ Reemplázalo con tus datos reales:
 
 ## 🎨 Personalización Avanzada
 
-### Cambiar Colores
+### Esquema de Colores
 
-**Cursos para Ocupados (Morado/Púrpura):**
+La newsletter utiliza una paleta de **amarillo/dorado (#eab003)** y **negro (#333333)**:
+
+**Botones de CTA (Todos los cursos):**
 ```css
-background-color: #667eea;  /* Cambiar este color */
+background-color: #eab003;  /* Amarillo/Dorado */
+color: #000000;  /* Texto negro para contraste */
 ```
 
-**Cursos para Desempleados (Verde):**
+**Sección Cursos para Ocupados:**
 ```css
-background-color: #10b981;  /* Cambiar este color */
+border-top: 3px solid #eab003;  /* Borde amarillo */
+color: #eab003;  /* Título amarillo */
 ```
+
+**Sección Cursos para Desempleados:**
+```css
+border-top: 3px solid #333333;  /* Borde negro */
+color: #333333;  /* Título negro */
+```
+
+Para cambiar estos colores, busca y reemplaza los códigos hexadecimales en el archivo HTML.
 
 ### Modificar Descripciones
 

@@ -1,8 +1,18 @@
 # Imágenes para la Newsletter
 
-Esta carpeta debe contener las imágenes de los cursos. Cada imagen debe tener dimensiones de **600x200 píxeles** para un óptimo rendimiento.
+Esta carpeta debe contener las imágenes de los cursos y la cabecera.
 
 ## Imágenes Requeridas:
+
+### Imagen de Cabecera (OBLIGATORIA):
+
+**header-logo.jpg**
+   - Uso: Cabecera principal de la newsletter
+   - Dimensiones: **600x200 píxeles**
+   - Sugerencia: Logo de la academia con texto "Cursos Gratuitos" o banner profesional con colores amarillo (#eab003) y negro
+   - Esta imagen reemplaza el título de texto en la cabecera
+
+### Imágenes de Cursos:
 
 ### Cursos para Ocupados:
 
