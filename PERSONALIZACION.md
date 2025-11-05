@@ -27,8 +27,9 @@ URL_FORMULARIO_CURSO_6  →  https://...
 
 ### ☐ 2. Imágenes (OBLIGATORIO)
 
-Agrega **7 imágenes** a la carpeta `images/`:
-- ✓ **header-logo.jpg** (CABECERA - MUY IMPORTANTE)
+Agrega **8 imágenes** a la carpeta `images/`:
+- ✓ **header-logo.jpg** (CABECERA - 600x200px)
+- ✓ **logo-footer.png** (LOGO PIE DE PÁGINA - 120px ancho)
 - ✓ curso-mantenimiento-sistemas.jpg
 - ✓ curso-montaje-componentes.jpg
 - ✓ curso-apoyo-psicosocial.jpg
@@ -36,9 +37,14 @@ Agrega **7 imágenes** a la carpeta `images/`:
 - ✓ curso-elaboracion-culinaria.jpg
 - ✓ curso-atencion-domiciliaria.jpg
 
-**Dimensiones:** Todas deben ser **600x200 píxeles**.
+**Dimensiones:**
+- **header-logo.jpg**: 600x200 píxeles (banner de cabecera)
+- **logo-footer.png**: 120px de ancho aproximadamente (logo pequeño del centro)
+- **Cursos**: 600x200 píxeles
 
 La imagen **header-logo.jpg** debe contener tu logo/banner principal con colores amarillo (#eab003) y negro preferentemente.
+
+La imagen **logo-footer.png** debe ser tu logo institucional, preferiblemente en PNG con fondo transparente y en color blanco o que contraste bien con el fondo negro del footer.
 
 **Si vas a enviar por email marketing:** Necesitas URLs completas de las imágenes.
 
@@ -52,9 +58,10 @@ Busca todas las etiquetas `<img src="images/...">` y reemplázalas por URLs comp
 <img src="https://tudominio.com/img/header-logo.jpg" alt="...">
 ```
 
-Hay **7 imágenes** que cambiar. Busca en el archivo:
+Hay **8 imágenes** que cambiar. Busca en el archivo:
 ```
 images/header-logo.jpg (cabecera)
+images/logo-footer.png (logo del footer)
 images/curso-mantenimiento-sistemas.jpg
 images/curso-montaje-componentes.jpg
 images/curso-apoyo-psicosocial.jpg

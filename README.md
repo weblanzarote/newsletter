@@ -20,11 +20,12 @@ Esta newsletter incluye:
 
 ### Paso 1: Preparar las Imágenes
 
-1. Descarga o crea **7 imágenes** (1 cabecera + 6 cursos)
+1. Descarga o crea **8 imágenes** (1 cabecera + 1 logo footer + 6 cursos)
 2. Consulta el archivo `images/README.md` para ver las especificaciones y sugerencias de cada imagen
-3. Formato recomendado: **600x200 píxeles, JPG, máximo 100KB**
+3. Formato recomendado cursos: **600x200 píxeles, JPG, máximo 100KB**
 4. Coloca las imágenes en la carpeta `images/` con estos nombres:
-   - **`header-logo.jpg`** (OBLIGATORIA - Logo/banner de cabecera)
+   - **`header-logo.jpg`** (OBLIGATORIA - Logo/banner de cabecera 600x200px)
+   - **`logo-footer.png`** (OBLIGATORIA - Logo pequeño del centro 120px ancho)
    - `curso-mantenimiento-sistemas.jpg`
    - `curso-montaje-componentes.jpg`
    - `curso-apoyo-psicosocial.jpg`

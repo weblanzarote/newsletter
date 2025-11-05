@@ -12,6 +12,15 @@ Esta carpeta debe contener las imágenes de los cursos y la cabecera.
    - Sugerencia: Logo de la academia con texto "Cursos Gratuitos" o banner profesional con colores amarillo (#eab003) y negro
    - Esta imagen reemplaza el título de texto en la cabecera
 
+### Logo del Footer (OBLIGATORIA):
+
+**logo-footer.png**
+   - Uso: Logo del centro en el pie de página
+   - Dimensiones sugeridas: **120px de ancho** (alto proporcional)
+   - Formato: PNG con fondo transparente (recomendado) o JPG
+   - Ubicación: Aparece centrado justo encima del nombre del centro
+   - Sugerencia: Logo institucional en blanco o en colores que contrasten bien con el fondo negro del footer
+
 ### Imágenes de Cursos:
 
 ### Cursos para Ocupados:
